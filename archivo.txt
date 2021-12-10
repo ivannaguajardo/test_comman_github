@@ -2,4 +2,5 @@ hola como estan esta es una pruega para github
 
 Mi nombre es Ivanna Guajardo
 
-hola mundo 
+hola mundo como estan esta es una pruba par github con comandos github
+
